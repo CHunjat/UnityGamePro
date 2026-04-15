@@ -2,8 +2,32 @@
 
 namespace Program
 {
+    public class Circle
+    {
+        public float x;
+        public float y;
+        public float radius;
+
+        public Circle()
+        {
+            x = 0f;
+            y = 0f;
+            radius = 1.0f;
+        }
+    }
+
+
     internal class Program
     {
+        static void Collide(Circle origin, Circle other)
+        {
+           float deltaX = origin.x - other.x;
+           float deltaY = origin.y - other.y;
+    
+              
+        }
+
+
         static void Main(string[] args)
         {
             #region 박싱
@@ -20,7 +44,7 @@ namespace Program
             object address = experience; //박싱
 
 
-           // address = 900999; //박싱된 객체는 불변이므로 새로운 객체가 만들어지고 주소값이 변경됨 // 얘는 주소타입
+            // address = 900999; //박싱된 객체는 불변이므로 새로운 객체가 만들어지고 주소값이 변경됨 // 얘는 주소타입
 
             //long data = (long)address; //언박싱
             //Console.WriteLine("address : " + address);
@@ -28,7 +52,19 @@ namespace Program
             //Console.WriteLine("experience : " + experience);
             #endregion
 
-            Vector3 position = new Vector3(1.0f, 2.0f, 3.0f); //이게 어떤 메모리 영역일까 => 값 타입이므로 스택 영역에 저장됨  
+            //Vector3 position = new Vector3(1.0f, 2.0f, 3.0f); //이게 어떤 메모리 영역일까 => 값 타입이므로 스택 영역에 저장됨  
+
+            Circle circle = new Circle();
+
+            circle.x = 5f;
+            circle.y = 5f;
+            circle.radius = 1.0f;
+
+            Circle quadrant = new circle();
+
+            quadrant.x = 1;
+            quadrant.y = 1;
+
         }
     }
 }

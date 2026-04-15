@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FDCB306-182E-4970-8F98-91B9F66A27F8}|Program.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C40B38-EFDB-4AE4-BFB5-1EA4FC1DF4CE}|..\\Program2\\Program2.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDCB306-182E-4970-8F98-91B9F66A27F8}|Program.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FDCB306-182E-4970-8F98-91B9F66A27F8}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +31,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program2\\Program.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program2\\Program.cs",
+              "RelativeToolTip": "..\\Program2\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:11:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Program.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwD4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:15:19.257Z",
               "EditorCaption": ""

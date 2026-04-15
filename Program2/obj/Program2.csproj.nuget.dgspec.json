@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program\\Program.csproj": {}
+    "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program2\\Program2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program\\Program.csproj": {
+    "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program2\\Program2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program\\Program.csproj",
-        "projectName": "Program",
-        "projectPath": "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program2\\Program2.csproj",
+        "projectName": "Program2",
+        "projectPath": "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program2\\Program2.csproj",
         "packagesPath": "C:\\Users\\UserK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program\\obj\\",
+        "outputPath": "C:\\Users\\UserK\\OneDrive\\바탕 화면\\UnityGamePro\\Program2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
