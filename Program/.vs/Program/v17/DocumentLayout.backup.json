@@ -3,11 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10C40B38-EFDB-4AE4-BFB5-1EA4FC1DF4CE}|..\\Program2\\Program2.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39F62837-9EF4-4178-B3B0-D82115E2054A}|..\\Program3\\Program3.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program3\\barracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDCB306-182E-4970-8F98-91B9F66A27F8}|Program.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDCB306-182E-4970-8F98-91B9F66A27F8}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39F62837-9EF4-4178-B3B0-D82115E2054A}|..\\Program3\\Program3.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F62837-9EF4-4178-B3B0-D82115E2054A}|..\\Program3\\Program3.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program3\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F62837-9EF4-4178-B3B0-D82115E2054A}|..\\Program3\\Program3.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program3\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F62837-9EF4-4178-B3B0-D82115E2054A}|..\\Program3\\Program3.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program3\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F62837-9EF4-4178-B3B0-D82115E2054A}|..\\Program3\\Program3.csproj|c:\\users\\userk\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\unitygamepro\\program3\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,28 +40,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Program2\\Program.cs",
-              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program2\\Program.cs",
-              "RelativeToolTip": "..\\Program2\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwE0AAAALAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Guard.cs",
+              "RelativeDocumentMoniker": "..\\Program3\\Guard.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Guard.cs",
+              "RelativeToolTip": "..\\Program3\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T11:11:08.781Z",
+              "WhenOpened": "2026-04-20T11:28:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Archer.cs",
+              "RelativeDocumentMoniker": "..\\Program3\\Archer.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Archer.cs",
+              "RelativeToolTip": "..\\Program3\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:27:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Knight.cs",
+              "RelativeDocumentMoniker": "..\\Program3\\Knight.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Knight.cs",
+              "RelativeToolTip": "..\\Program3\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:22:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Unit.cs",
+              "RelativeDocumentMoniker": "..\\Program3\\Unit.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Unit.cs",
+              "RelativeToolTip": "..\\Program3\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:22:22.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barracks.cs",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Barracks.cs",
+              "RelativeDocumentMoniker": "..\\Program3\\Barracks.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Barracks.cs",
+              "RelativeToolTip": "..\\Program3\\Barracks.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:14:59.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwD4AAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program3\\Program.cs",
+              "ToolTip": "C:\\Users\\UserK\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\UnityGamePro\\Program3\\Program.cs",
+              "RelativeToolTip": "..\\Program3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:15:19.257Z",
+              "WhenOpened": "2026-04-20T11:19:16.479Z",
               "EditorCaption": ""
             }
           ]
