@@ -15,15 +15,15 @@ namespace Program3
 
         public void Create(int select)
         {
-            while (unitCount < 5)
-            {
+          
                 Console.WriteLine("배럭유닛을 선택하세요 최대 5개까지 선택가능함(1: 기사, 2: 궁수, 3: 경비병)");
                 if(!int.TryParse(Console.ReadLine(), out int unitSelect))
                 {
                     Console.WriteLine("문자를 입력하셨습니다 다시입력해주세요");
-                    continue;
+                return;
                 }
 
+                
                 switch (unitSelect)
                 {
                     case 1:
@@ -35,16 +35,17 @@ namespace Program3
                     case 3:
                         units[unitCount] = new Guard();
                         break;
-                    case 4:
-                        units[unitSelect] = null;
-                        return;
                     default:
                         Console.WriteLine("잘못된 입력입니다. 다시 선택해주세요.");
-                        continue;
+                        break;
                 }
                 unitCount++;
 
-            }
+                if (unitCount == units.Length)
+                {
+                    Console.WriteLine("꽉참");
+                }
+            
         }
 
         public void Battle()

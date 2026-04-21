@@ -18,9 +18,29 @@ namespace Program3
 
             Barracks barracks = new Barracks();
 
-            barracks.Create(select);
-            barracks.Battle();
+            while (true)
+            {
+                Console.WriteLine("Please select an option");
+                if (int.TryParse(Console.ReadLine(), out select))
+                {
+                    if (select >= 1 && select <=3)
+                    {
+                        barracks.Create(select); 
+                    }
+                }
+                else if (select == 4)
+                {
+                    barracks.Battle();
 
+                    Console.WriteLine("The battle is over");
+                    break;
+                }
+                else
+                {
+                  Console.WriteLine("Please select an option");
+
+                }
+            }
 
         }
     }
